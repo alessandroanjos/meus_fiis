@@ -24,21 +24,4 @@ class Componentes {
       ),
     );
   }
-
-  // static botao(String _texto, Function _f) {
-  //   return Container(
-  //     child: RaisedButton(
-  //       onPressed: _f,
-  //       child: Text(
-  //         _texto,
-  //         style: TextStyle(color: Colors.blue, fontSize: 30.0),
-  //       ),
-  //       shape: RoundedRectangleBorder(
-  //           borderRadius: BorderRadius.circular(10),
-  //           side: const BorderSide(color: Colors.blue, width: 10)),
-  //       color: Colors.black87.withOpacity(1),
-  //       hoverColor: Colors.yellow.withOpacity(1),
-  //     ),
-  //   );
-  // }
 }
